@@ -9,3 +9,4 @@ def dfs(x,sum1,u):
         dfs(i,sum1+i,u+1)
 dfs(1,0,0)
 print(cnt)
+print("asdfs")
